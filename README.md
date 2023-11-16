@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rixin Liu
-- 🌱 I am now a junior student majoring in computer Science and Technology in South China University of Technology.
+- 🌱 I am now a junior student majoring in computer science in South China University of Technology.
 - 💞️ I hope I can have friends to teach me and help me improve myself
 - 📫 I would appreciate it if you would help me,please contact me at 956573218@qq.com.
 
