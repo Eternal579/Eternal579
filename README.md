@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Rixin Liu
-- 🌱 I am now a junior student majoring in computer science in South China University of Technology.
-- 💞️ I hope I can have friends to teach me and help me improve myself
-- 📫 I would appreciate it if you would help me,please contact me at 956573218@qq.com.
-
-<!---
-Eternal579/Eternal579 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About a BugEater's life when struggling in SCUT, China.
+# What I m doing now...
+**Learning the MIT6.828 course**  
+**Perpare for TOEFL&GRE**  
