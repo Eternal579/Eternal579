@@ -2,3 +2,7 @@
 # What I m doing now...
 **Learning the MIT6.828 course**  
 **Perpare for TOEFL&GRE**  
+# Contact with me?
+- 956573218@qq.com
+- 579297lrx@gmail.com
+- [blog address](bugeater.space)
