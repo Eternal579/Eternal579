@@ -5,4 +5,4 @@
 # Contact with me?
 - 956573218@qq.com
 - 579297lrx@gmail.com
-- [blog address](bugeater.space)
+- bugeater.space
