@@ -1,7 +1,7 @@
 ## About a BugEater's life when struggling ✊ in SCUT, China.
 🧐 I'm Rixin Liu, a junior studying in South China University of Technology. 
 
-I love playing FPS games 🎮, especially APEX 👍, and enjoy creating more bugs to debug 😍.  
+I love playing FPS games 🎮, especially RDR2 👍, and enjoy creating more bugs to debug 😍.  
 
 Most importantly, I am very interested in **Operating System**😀, it will be my honor to be contacted with.
 
