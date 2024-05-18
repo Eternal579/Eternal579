@@ -3,7 +3,7 @@
 
 I love playing FPS games 🎮, and RDR2 👍, and enjoy creating more bugs to debug 😍.  
 
-Most importantly, I am very interested in **Operating System**😀, it will be my honor to be contacted with.
+Most importantly, I am very interested in **Computer System**😀, it will be my honor to be contacted with.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eternal579)](https://github.com/anuraghazra/github-readme-stats)  
 
